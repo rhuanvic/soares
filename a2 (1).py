@@ -20,5 +20,4 @@ else:
          print('vc tem', repetir, 'tentativas')
          matricula = input('matricula')
         elif matricula not in acesso.keys() and repetir==0:
-         print("acabou as tentativas")    
-                 
+         print("acabou as")                
